@@ -101,8 +101,8 @@ Cada projeto é uma oportunidade para aprender algo novo, resolver um problema e
 
 ## 📫 Contato
 
-💼 **LinkedIn:** [Richard Alves](https://linkedin.com/richard-alves-bb150a404)
-📧 **E-mail:** [rick-henrrique1@hotmail.com](mailto:rick-henrrique1@hotmail.com)
+📧 **E-mail:** [rick-henrrique1@hotmail.com](mailto:rick-henrrique1@hotmail.com)<br>
+💼 **LinkedIn:** [Richard Henrique](https://www.linkedin.com/in/richard-alves-bb150a404/)
 🌐 **Portfólio:** Em desenvolvimento
 
 ---
