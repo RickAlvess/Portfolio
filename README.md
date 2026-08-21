@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Richard Henrique
+# 👋 Olá, eu sou Richard Alves
 
 💻 **Desenvolvedor de Sistemas | Estudante de ADS | Técnico em Desenvolvimento de Sistemas**
 
