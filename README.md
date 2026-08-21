@@ -80,9 +80,9 @@ Estou focado em evoluir principalmente em:
 
 ## 📊 GitHub
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight)
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RickAlvesss\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickAlvesss\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -96,8 +96,8 @@ Cada projeto é uma oportunidade para aprender algo novo, resolver um problema e
 
 ## 📫 Contato
 
-💼 **LinkedIn:** [Seu LinkedIn](https://linkedin.com/)
-📧 **E-mail:** [seuemail@email.com](mailto:seuemail@email.com)
+💼 **LinkedIn:** [Seu LinkedIn](https://linkedin.com/richard-alves-bb150a404)
+📧 **E-mail:** [seuemail@email.com](mailto:rick-henrrique1@hotmail.com)
 🌐 **Portfólio:** Em desenvolvimento
 
 ---
