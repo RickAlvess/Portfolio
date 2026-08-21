@@ -10,8 +10,9 @@ Gosto de transformar ideias em projetos reais, aprender novas tecnologias e ente
 
 ## 🚀 Sobre mim
 
-* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+* 💼 Atualmente Estagiário de TI
 * 💻 Técnico em **Desenvolvimento de Sistemas**
+* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 * 🌱 Atualmente aprimorando meus conhecimentos em desenvolvimento web e software
 * 🧠 Interesse em **IA, automação, sistemas web e desenvolvimento de aplicações**
 * 🔧 Gosto de criar projetos do zero e experimentar novas tecnologias
@@ -46,6 +47,10 @@ Gosto de transformar ideias em projetos reais, aprender novas tecnologias e ente
 ---
 
 ## 📌 Projetos
+
+## 🌐 Site para Provedor de Internet
+
+Site institucional desenvolvido com HTML, CSS, JavaScript e foco em responsividade e experiência do usuário.
 
 ### 🤖 Chatbots e Automação
 
