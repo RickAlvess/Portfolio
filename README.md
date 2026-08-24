@@ -1,4 +1,5 @@
 # 👋 Olá, eu sou Richard Alves
+ <img src="Eu.png" width="200" />
 
 💻 **Desenvolvedor de Sistemas | Estudante de ADS | Técnico em Desenvolvimento de Sistemas**
 
@@ -10,7 +11,7 @@ Gosto de transformar ideias em projetos reais, aprender novas tecnologias e ente
 
 ## 🚀 Sobre mim
 
-* 💼 Atualmente Estagiário de TI
+* 💼 Atualmente Estagiário de TI da Câmara de Vereadores de Arcoverde
 * 💻 Técnico em **Desenvolvimento de Sistemas**
 * 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 * 🌱 Atualmente aprimorando meus conhecimentos em desenvolvimento web e software
