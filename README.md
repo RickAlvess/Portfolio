@@ -47,6 +47,22 @@ Gosto de transformar ideias em projetos reais, aprender novas tecnologias e ente
 
 ---
 
+## 📜 Certificados
+
+Todos os certificados abaixo foram realizados pela **Fundação Bradesco**.
+
+### 💻 Tecnologia e Desenvolvimento
+
+| Certificado                                                                                                                                      |    Instituição    |
+| :----------------------------------------------------------------------------------------------------------------------------------------------- | :---------------: |
+| [🤖 AI-900 - Fundamentos de IA no Azure](certificados/AI-900%20-%20Fundamentos%20de%20IA%20no%20Azure.pdf)                                       | Fundação Bradesco |
+| [📱 Desenvolvendo Aplicações Mobile com Android Studio](certificados/Desenvolvendo%20Aplica%C3%A7%C3%B5es%20Mobile%20com%20Android%20Studio.pdf) | Fundação Bradesco |
+| [🖥️ Fundamentos de TI: Hardware e Software](certificados/FUNDAMENTOS%20DE%20TI%20HARDWARE%20E%20SOFTWARE.pdf)                                   | Fundação Bradesco |
+| [🐍 Linguagem de Programação Python - Básico](certificados/Linguagem%20de%20Programa%C3%A7%C3%A3o%20Python%20-%20B%C3%A1sico.pdf)                | Fundação Bradesco |
+| [⚙️ Projetos de Sistemas de TI](certificados/Projetos%20de%20Sistemas%20de%20TI.pdf)                                                             | Fundação Bradesco |
+| [🔐 Segurança em Tecnologia da Informação](certificados/Seguran%C3%A7a%20em%20Tecnologia%20da%20Informa%C3%A7%C3%A3o.pdf)                        | Fundação Bradesco |
+| [🧠 Soluções de IA no GitHub](certificados/Solu%C3%A7%C3%B5es%20de%20IA%20no%20GitHub.pdf)                                                       | Fundação Bradesco |
+
 ## 📌 Projetos
 
 ## 🌐 Site para Provedor de Internet
