@@ -102,9 +102,9 @@ Estou focado em evoluir principalmente em:
 
 ## 📊 GitHub
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RickAlvesss\&show_icons=true\&theme=tokyonight)
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RickAlvess\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickAlvesss\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickAlvess\&layout=compact\&theme=tokyonight)
 
 ---
 
