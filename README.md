@@ -93,12 +93,14 @@ Atuação no suporte técnico, operacional e na colaboração com diferentes ati
 
 ### 🏛️ Eventos e Participações Institucionais
 
-Participação em ações, campanhas e eventos institucionais, com atuação no suporte técnico, organização e produção de materiais.
+Participação em eventos, campanhas e ações institucionais promovidos pela Câmara de Vereadores de Arcoverde, envolvendo atividades de apoio técnico, organização e produção de materiais.
 
-- [Abril pelo Meio Ambiente](eventos-institucionais/Abril%20pelo%20Meio%20Ambiente.pdf)
-- [Novembro Azul](eventos-institucionais/Novembro%20Azul.pdf)
-- [Outubro Rosa 2025](eventos-institucionais/Outubro%20Rosa%202025.pdf)
-- [Outubro Rosa 2026](eventos-institucionais/Outubro%20Rosa%202026.pdf)
+| Evento | Instituição | Carga horária |
+|---|---|---:|
+| [Café com o Legislativo – Outubro Rosa 2025](certificados/eventos-institucionais/Outubro%20Rosa%202025.pdf) | Câmara de Vereadores de Arcoverde | 4h |
+| [Café com o Legislativo – Novembro Azul 2025](certificados/eventos-institucionais/Novembro%20Azul.pdf) | Câmara de Vereadores de Arcoverde | 4h |
+| [Capacitação Profissional – Currículo Lattes](certificados/eventos-institucionais/Curr%C3%ADculo%20Lattes.pdf) | CIEE/PE e Câmara de Vereadores de Arcoverde | 4h |
+| [Café com o Legislativo – Abril pelo Meio Ambiente 2026](certificados/eventos-institucionais/Abril%20pelo%20Meio%20Ambiente.pdf) | Câmara de Vereadores de Arcoverde | 4h |
 
 ---
 
