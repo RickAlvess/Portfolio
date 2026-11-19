@@ -4,7 +4,10 @@
 
 💻 **Generalista de TI - Júnior | Estudante de ADS | Técnico em Desenvolvimento de Sistemas**
 
-Tenho interesse por tecnologia em suas diversas áreas e gosto de explorar diferentes possibilidades, aprender novas ferramentas e encontrar soluções para desafios do dia a dia. Atualmente, curso **Análise e Desenvolvimento de Sistemas** e possuo formação técnica em **Desenvolvimento de Sistemas**. Busco ampliar constantemente meus conhecimentos e desenvolver habilidades em diferentes campos da Tecnologia da Informação.
+<p style="font-size: 14px;">
+Gosto de explorar as diferentes áreas da tecnologia, aprender novas ferramentas e desenvolver soluções para desafios do dia a dia. Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> e possuo formação técnica em <strong>Desenvolvimento de Sistemas</strong>.
+</p>
+
 ---
 
 ## 🚀 Sobre mim
