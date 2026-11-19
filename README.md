@@ -153,11 +153,11 @@ Estou focado em evoluir principalmente em:
 
 ---
 
-## 💡 Filosofia
+## 💭
 
-> **"A melhor forma de aprender programação é construindo."**
-
-Cada projeto é uma oportunidade para aprender algo novo, resolver um problema e evoluir como desenvolvedor.
+> "Eu acredito que, às vezes, são as pessoas que ninguém espera nada que fazem as coisas que ninguém consegue imaginar."
+>
+> — Alan Turing, pai da computação
 
 ---
 
