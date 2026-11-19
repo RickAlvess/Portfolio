@@ -93,7 +93,7 @@ Participação em eventos acadêmicos, iniciativas de inovação e atividades de
 | [Hackathon São João de Arcoverde 2026](eventos-academicos/HACKATHON.pdf) | Porto Digital | 16h |
 | [COEPE 2026 - Monitor](eventos-academicos/MONITOR%20COEPE.pdf) | AESA/CESA | 20h |
 | [Inovação Aberta na Educação](eventos-academicos/PALESTRA%20INOVA%C3%87%C3%83O%20ABERTA%20NA%20EDUCA%C3%87%C3%83O.PDF) | AESA | 4h |
-| [Ponteira Inteligente para Bengala](eventos-academicos/Ponteira%20Inteligente.pdf) | Projeto acadêmico | — |
+| [Ponteira Inteligente para Bengala](certificados/eventos-academicos/Ponteira%20Inteligente.pdf) | Projeto acadêmico | — |
 
 ### 🏛️ Eventos e Participações Institucionais
 
