@@ -70,6 +70,8 @@ Atuação no suporte técnico, operacional e na colaboração com diferentes ati
 
 ### 💻 Tecnologia e Desenvolvimento
 
+Cursos de formação e aperfeiçoamento profissional nas áreas de Tecnologia da Informação, desenvolvimento de software, programação, inteligência artificial e segurança digital.
+
 **Fundação Bradesco**
 
 | Certificado | Documento |
@@ -83,6 +85,8 @@ Atuação no suporte técnico, operacional e na colaboração com diferentes ati
 | Soluções de IA no GitHub | [Visualizar PDF](certificados/cursos/fundacao-bradesco/Solu%C3%A7%C3%B5es%20de%20IA%20no%20GitHub.pdf) |
 
 ### 🏆 Eventos Acadêmicos e Inovação
+
+Participação em eventos acadêmicos, iniciativas de inovação e atividades de formação tecnológica, envolvendo empreendedorismo, inteligência artificial, pesquisa e desenvolvimento de soluções.
 
 | Participação | Instituição | Carga horária |
 |---|---|---|
